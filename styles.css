@@ -256,7 +256,7 @@ button,
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .hero,
     .hero-section {
@@ -390,7 +390,7 @@ button,
     font-weight: 200
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .usp .usp-container,
     .usp-section .usp-container {
@@ -479,7 +479,7 @@ button,
     z-index: 1
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .offers,
     .offers-section {
@@ -627,7 +627,7 @@ button,
     color: #fff
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .features,
     .features-section {
@@ -757,7 +757,7 @@ button,
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .story,
     .story-section {
@@ -873,7 +873,7 @@ button,
     font-weight: 400
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .challenges,
     .challenges-section {
@@ -997,7 +997,7 @@ button,
     display: inline-block
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .labfeature,
     .labfeature-section {
@@ -1166,7 +1166,7 @@ button,
     }
 }
 
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     .cta .cta-bg,
     .cta-section .cta-bg {
@@ -1524,7 +1524,7 @@ button,
 }
 
 /* overflow-guard (<=400px) */
-@media (max-width:400px) {
+@media (max-width:600px) {
 
     html,
     body {
@@ -1741,7 +1741,7 @@ button,
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
 
     .usp-section.cta-mode .usp-container {
         padding: 0px;
@@ -2084,7 +2084,7 @@ button,
     color: rgba(255, 255, 255, .85);
 }
 
-@media (max-width: 400px) {
+@media (max-width: 600px) {
     .story-text.impact-wrapper {
             padding-left: 0px;
         }
